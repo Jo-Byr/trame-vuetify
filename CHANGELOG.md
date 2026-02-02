@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v3.2.1 (2026-02-02)
+
+### Bug Fixes
+
+- **vuetify3**: Fix drawer layout behavior with default value
+  ([`3e84c57`](https://github.com/Kitware/trame-vuetify/commit/3e84c57c67e837aa8965e612018d20b97f50a70c))
+
+
 ## v3.2.0 (2025-12-05)
 
 ### Features
